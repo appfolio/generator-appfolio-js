@@ -6,16 +6,12 @@
     "yeoman-generator",
     "appfolio"
   ],
-  "homepage": "https://github.com/gthomas-appfolio/generator-appfolio-js",
-  "bugs": "https://github.com/gthomas-appfolio/generator-appfolio-js/issues",
-  "author": {
-    "name": "Gary Thomas",
-    "url": "https://github.com/gthomas-appfolio"
-  },
+  "homepage": "https://github.com/appfolio/generator-appfolio-js",
+  "bugs": "https://github.com/appfolio/generator-appfolio-js/issues",
+  "author": "Appfolio, Inc.",
   "contributors": [
     {
       "name": "Simon Bailey",
-      "email": "simon@newtriks.com",
       "url": "https://github.com/newtriks"
     }
   ],
@@ -26,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/gthomas-appfolio/generator-appfolio-js.git"
+    "url": "git://github.com/appfolio/generator-appfolio-js.git"
   },
   "scripts": {
     "release:major": "npm version prerelease && git push --follow-tags && npm publish --tag beta",
@@ -34,7 +30,7 @@
     "release:patch": "npm version prerelease && git push --follow-tags && npm publish --tag beta"
   },
   "dependencies": {
-    "appfolio-js-template": "github:gthomas-appfolio/appfolio-js-template",
+    "appfolio-js-template": "github:appfolio/appfolio-js-template",
     "escodegen": "^1.7.0",
     "esprima": "^2.7.0",
     "esprima-walk": "^0.1.0",

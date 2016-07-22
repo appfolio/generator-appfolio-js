@@ -46,7 +46,7 @@ and follow the prompts
 The sample code under `/src` is a basic vanilla JS example to ensure bundling works correctly.
 No UI or other frameworks have been included and need to be added by you.
 
-Can be forked directly, but also used as the base template of [generator-appfolio-js](https://github.com/gthomas-appfolio/generator-appfolio-js) Yeoman generator.
+Uses [appfolio-js-template](https://github.com/appfolio/appfolio-js-template) as the file and config template.
 
 ----
 
