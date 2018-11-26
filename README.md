@@ -1,5 +1,7 @@
 # Appfolio JS app Yeoman generator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/appfolio/generator-appfolio-js.svg)](https://greenkeeper.io/)
+
 ![Dependency Tracker](https://img.shields.io/david/gthomas-appfolio/generator-appfolio-js.svg "Dependency Tracker") 
 ![Dependency Tracker](https://img.shields.io/david/dev/gthomas-appfolio/generator-appfolio-js.svg "Dev Dependency Tracker")
 
